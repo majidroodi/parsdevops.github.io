@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ParsDevOPs</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on ParsDevOPs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Thu, 26 Sep 2024 13:05:15 +0330</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New_post</title>
+      <link>//localhost:1313/posts/new_post/</link>
+      <pubDate>Thu, 26 Sep 2024 13:05:15 +0330</pubDate>
+      <guid>//localhost:1313/posts/new_post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tmux</title>
+      <link>//localhost:1313/posts/my-awesome-blog-post.1/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-awesome-blog-post.1/</guid>
+      <description>Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people.</description>
+    </item>
+  </channel>
+</rss>

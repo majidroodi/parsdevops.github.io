@@ -1,5 +1,5 @@
 +++
-title = "My awesome blog post"
+title = "Tmux"
 image = "/images/post/post-3.jpg"
 author = "John Doe"
 date = 2019-11-07T05:00:00Z

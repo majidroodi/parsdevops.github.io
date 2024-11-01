@@ -99,7 +99,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "سلام دوستان 👋 به پارس دوآپس خوش آمدید"
+title = "Hi, 👋, welcome to ParsDevOPs Website."
 image = "images/banner/illustration.svg"
 
 
@@ -116,15 +116,15 @@ link = ""
 
 
 ############################## Social Site ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+#link = "#"
+#[[params.social]]
+#icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#link = "#"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/majidroodi"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/majid-roodi/"
